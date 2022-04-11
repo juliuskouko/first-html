@@ -1,0 +1,29 @@
+h1 {
+	color: darkgoldenrod;
+
+	text-align: center;
+}
+
+h2 {
+	
+}
+div ol, ul{
+	background-color: darkgoldenrod;
+	color: white;
+
+}
+h3 {
+	background-color: orange;
+	color: white;
+	font-size: 18px;
+	font-style: !important;
+}
+p {
+	color: orangered;
+	text-decoration-style: solid;
+}
+h4 {
+	color: darkgoldenrod;
+	font-style: !important;
+	font-size: 22px;
+}
